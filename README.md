@@ -1,3 +1,12 @@
-## Application Development 2 👋
+## 🚀 Deployment
 
-✨ _A repository for the Appdev2 Activity 13._ ✨
+The API is deployed at:  
+https://appdev2-w70y.onrender.com
+
+### Available Routes
+- POST /api/auth/signup
+- POST /api/auth/signin
+- GET /api/books
+- POST /api/books
+- PATCH /api/books/:id
+- DELETE /api/books/:id
