@@ -51,8 +51,8 @@ POST	        /api/auth/signup	    ❌	            Register a new user
 POST	        /api/auth/signin	    ❌	            Sign in and get JWT token
 GET	          /api/books	            ✅	            Get all books
 POST	        /api/books	            ✅	            Add a new book + send email
-PATCH	        /api/books/:id	        ✅	            Update a book
-DELETE	        /api/books/:id	      ✅	            Delete a book
+PATCH	        /api/books/:id	          ✅	            Update a book
+DELETE	        /api/books/:id	        ✅	            Delete a book
 
 Use Authorization: Bearer <token> in headers for protected routes.
 
